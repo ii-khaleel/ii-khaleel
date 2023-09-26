@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hey, This is ii.khaleel 👋
 
-<!--
-**ii-khaleel/ii-khaleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I am a dedicated Python:snake: backend developer mainly focused on Django and Django Rest Framework with a passion for creating technological change in the world🌎. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eager to expand my horizons. :wink:
+
+
+
+I am a Backend Developer focused on django & Django Rest Framework,  python:snake: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+ 
+ 🔭 Tinkering away on my 🤫🔒 private repos.
+
+ 🌱 I'm now venturing into the realms of Machine Learning (ML).
+ 
+ 
+ :books: I want to learn <img src="https://img.shields.io/badge/-solidity-3a495d?style=flat&logo=solidity&logoColor=67b7f7"> and <img src="https://img.shields.io/badge/-ethereum-3a495d?style=flat&logo=ethereum&logoColor=67b7f7">
+ 
+ 
+ 💬 Ask me about Python Backend Development, Cloud, and any Tech-related stuff.
+
+
+---
+
+
+### Let's connect! Find me on Socials and let's share some vibes!
+
+<a href="https://twitter.com/ii_khaleel">
+<img src = "https://img.shields.io/badge/-Twitter-1572B6?style=flat&logo=x&logoColor=white"></a>
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ii-khaleel&show_icons=true&hide_border=true)
+
+---
+
+ With a strong foundation in web development, I aim to harness the power of these cutting-edge technologies to innovate and positively impact our world. My journey is driven by a deep commitment to advancing human experiences and making a lasting difference.
+
+Let's connect 👨‍💻 and forge the future together.😁✌
