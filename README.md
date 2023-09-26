@@ -23,15 +23,17 @@ I am a Backend Developer focused on django & Django Rest Framework,  python:snak
 
 ---
 
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=ii-khaleel&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ii-khaleel&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ### Let's connect! Find me on Socials and let's share some vibes!
 
 <a href="https://twitter.com/ii_khaleel">
 <img src = "https://img.shields.io/badge/-Twitter-1572B6?style=flat&logo=x&logoColor=white"></a>
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ii-khaleel&show_icons=true&hide_border=true)
 
 ---
 
