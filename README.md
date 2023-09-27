@@ -2,13 +2,13 @@
 
 ---
 
-I am a dedicated Python:snake: backend developer mainly focused on Django and Django Rest Framework with a passion for creating technological change in the world🌎. 
+I am a dedicated Python:snake: backend developer mainly focused on Django and Django Rest Framework with a passion for creating technological change in the world🌎.
+
 
 Eager to expand my horizons. :wink:
 
 
 
-I am a Backend Developer focused on django & Django Rest Framework,  python:snake: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  🔭 Tinkering away on my 🤫🔒 private repos.
 
